@@ -27,6 +27,11 @@ header {
   font-size: 48px;
 }
 
+.logo h1 a {
+  text-decoration: none;
+  color: white;
+}
+
 header nav {
   display: flex;
   gap: 20px;
