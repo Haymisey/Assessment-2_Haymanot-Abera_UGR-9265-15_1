@@ -89,7 +89,9 @@ main img {
 
 .main_section_1,
 .main_section_2 {
-  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 
 .sidebar {
