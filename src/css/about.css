@@ -172,13 +172,8 @@ footer {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 40px;
-  background-color: #678372;
-}
-
-footer {
   text-align: center;
-  padding: 20px;
+  padding: 20px 10%;
   background: #333;
   color: white;
 }
